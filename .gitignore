@@ -9,8 +9,6 @@
 /bkdir
 /vendor
 composer.*
-configuration.json
-configuracion.json
 *.txt
 *.pyc
 *.msp
